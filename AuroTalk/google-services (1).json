@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304924081339",
+    "firebase_url": "https://chatapp-6ff4a.firebaseio.com",
+    "project_id": "chatapp-6ff4a",
+    "storage_bucket": "chatapp-6ff4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304924081339:android:121ba48e91dc06f407bd9e",
+        "android_client_info": {
+          "package_name": "com.chatapp.aurotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304924081339-39u30f44okgm1n5et2n1u3hk3rmriej7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ09lr4Lg4xaPniuMuZaSoYzaSkJg1Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304924081339-39u30f44okgm1n5et2n1u3hk3rmriej7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
